@@ -1,6 +1,10 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+/* vara de nabegacion */
+.logo{
+  width: 18rem ;
+}
 
 /* Hero Section */
 
